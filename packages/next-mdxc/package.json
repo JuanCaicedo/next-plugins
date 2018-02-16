@@ -6,6 +6,6 @@
   "repository": "zeit/next-plugins",
   "dependencies": {
     "mdx-loader": "^1.0.0-beta.3",
-    "mdxc": "^1.0.0"
+    "mdxc": "https://github.com/JuanCaicedo/mdxc"
   }
 }
